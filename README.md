@@ -1,7 +1,5 @@
-﻿**POS system**
- 
-This is a python project which I created while in school
-it's not expected to use as a real cash register. I just wanted to share this project with all of you, to show what easy things you all can do and that somebody has inspiration for a new Project. This 
+﻿**POS system** is a python project which I created while in school.
+it's not expected to use as a real cash register. I just wanted to share this project with all of you, to show what easy things you all can do and that somebody has inspiration for a new Project. 
 
 **Install**
 
